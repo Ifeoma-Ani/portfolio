@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Ifeoma-Ani/portfolio/static/css/main.e689b98c.css",
-    "main.js": "/Ifeoma-Ani/portfolio/static/js/main.bba4ad15.js",
-    "index.html": "/Ifeoma-Ani/portfolio/index.html",
-    "main.e689b98c.css.map": "/Ifeoma-Ani/portfolio/static/css/main.e689b98c.css.map",
-    "main.bba4ad15.js.map": "/Ifeoma-Ani/portfolio/static/js/main.bba4ad15.js.map"
+    "main.css": "/ifeoma-ani-portfolio/static/css/main.e689b98c.css",
+    "main.js": "/ifeoma-ani-portfolio/static/js/main.bba4ad15.js",
+    "index.html": "/ifeoma-ani-portfolio/index.html",
+    "main.e689b98c.css.map": "/ifeoma-ani-portfolio/static/css/main.e689b98c.css.map",
+    "main.bba4ad15.js.map": "/ifeoma-ani-portfolio/static/js/main.bba4ad15.js.map"
   },
   "entrypoints": [
     "static/css/main.e689b98c.css",
