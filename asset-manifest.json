@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ifeoma-Ani-portfolio/static/css/main.e689b98c.css",
+    "main.js": "/Ifeoma-Ani-portfolio/static/js/main.bba4ad15.js",
+    "index.html": "/Ifeoma-Ani-portfolio/index.html",
+    "main.e689b98c.css.map": "/Ifeoma-Ani-portfolio/static/css/main.e689b98c.css.map",
+    "main.bba4ad15.js.map": "/Ifeoma-Ani-portfolio/static/js/main.bba4ad15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e689b98c.css",
+    "static/js/main.bba4ad15.js"
+  ]
+}
